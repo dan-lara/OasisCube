@@ -1,0 +1,15 @@
+[theme]
+base="light"
+primaryColor = "#4CAF50"   # Vert écologique
+backgroundColor = "#F0F4F3"  # Fond gris clair
+secondaryBackgroundColor = "#E8F5E9"  # Vert très clair
+textColor = "#2E7D32"  # Texte vert foncé
+font = "sans serif"  # Police simple et propre
+
+#[theme]
+#base = "dark"                         # Active le mode sombre
+#primaryColor = "#4CAF50"              # Vert principal
+#backgroundColor = "#1E1E1E"           # Gris foncé (fond)
+#secondaryBackgroundColor = "#2C2C2C"  # Gris plus clair (composants)
+#textColor = "#D0F0C0"                 # Vert clair pour le texte
+#font = "sans serif"                   # Police par défaut
