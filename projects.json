@@ -1,0 +1,458 @@
+[
+    {
+      "id": "k-world-flora",
+      "title": "World flora",
+      "description": "Plants of the world flora",
+      "speciesCount": 73591
+    },
+    {
+      "id": "useful",
+      "title": "Useful plants",
+      "description": "Cultivated and ornamental plants",
+      "speciesCount": 5443
+    },
+    {
+      "id": "weeds",
+      "title": "Weeds",
+      "description": "Weeds in agricultural fields of Europe",
+      "speciesCount": 1426
+    },
+    {
+      "id": "invasion",
+      "title": "Invasive plants",
+      "description": "Invasive species potentially threatening livelihoods and the environment around the world",
+      "speciesCount": 1087
+    },
+    {
+      "id": "prota",
+      "title": "Useful plants of Tropical Africa",
+      "description": "Plant Resources of Tropical Africa",
+      "speciesCount": 2269
+    },
+    {
+      "id": "prosea",
+      "title": "Useful plants of Asia",
+      "description": "Plant Resources of South East Asia",
+      "speciesCount": 2138
+    },
+    {
+      "id": "k-northern-europe",
+      "title": "Northern Europe",
+      "description": "Plants of Northern Europe",
+      "speciesCount": 3603
+    },
+    {
+      "id": "k-middle-europe",
+      "title": "Middle Europe",
+      "description": "Plants of Middle Europe",
+      "speciesCount": 4930
+    },
+    {
+      "id": "k-southwestern-europe",
+      "title": "Southwestern Europe",
+      "description": "Plants of Southwestern Europe",
+      "speciesCount": 7248
+    },
+    {
+      "id": "k-southeastern-europe",
+      "title": "Southeastern Europe",
+      "description": "Plants of Southeastern Europe",
+      "speciesCount": 6982
+    },
+    {
+      "id": "k-eastern-europe",
+      "title": "Eastern Europe",
+      "description": "Plants of Eastern Europe",
+      "speciesCount": 3716
+    },
+    {
+      "id": "k-northern-africa",
+      "title": "Northern Africa",
+      "description": "Plants of Northern Africa",
+      "speciesCount": 4370
+    },
+    {
+      "id": "k-macaronesia",
+      "title": "Macaronesia",
+      "description": "Plants of Macaronesia",
+      "speciesCount": 2974
+    },
+    {
+      "id": "k-west-tropical-africa",
+      "title": "West Tropical Africa",
+      "description": "Plants of West Tropical Africa",
+      "speciesCount": 6136
+    },
+    {
+      "id": "k-west-central-tropical-africa",
+      "title": "West-Central Tropical Africa",
+      "description": "Plants of West-Central Tropical Africa",
+      "speciesCount": 13789
+    },
+    {
+      "id": "k-northeast-tropical-africa",
+      "title": "Northeast Tropical Africa",
+      "description": "Plants of Northeast Tropical Africa",
+      "speciesCount": 5502
+    },
+    {
+      "id": "k-east-tropical-africa",
+      "title": "East Tropical Africa",
+      "description": "Plants of East Tropical Africa",
+      "speciesCount": 7404
+    },
+    {
+      "id": "k-south-tropical-africa",
+      "title": "South Tropical Africa",
+      "description": "Plants of South Tropical Africa",
+      "speciesCount": 7508
+    },
+    {
+      "id": "k-southern-africa",
+      "title": "Southern Africa",
+      "description": "Plants of Southern Africa",
+      "speciesCount": 5906
+    },
+    {
+      "id": "k-middle-atlantic-ocean",
+      "title": "Middle Atlantic Ocean",
+      "description": "Plants of Middle Atlantic Ocean",
+      "speciesCount": 454
+    },
+    {
+      "id": "k-western-indian-ocean",
+      "title": "Western Indian Ocean",
+      "description": "Plants of Western Indian Ocean",
+      "speciesCount": 11536
+    },
+    {
+      "id": "k-siberia",
+      "title": "Siberia",
+      "description": "Plants of Siberia",
+      "speciesCount": 1897
+    },
+    {
+      "id": "k-russian-far-east",
+      "title": "Russian Far East",
+      "description": "Plants of Russian Far East",
+      "speciesCount": 1936
+    },
+    {
+      "id": "k-middle-asia",
+      "title": "Middle Asia",
+      "description": "Plants of Middle Asia",
+      "speciesCount": 2640
+    },
+    {
+      "id": "k-caucasus",
+      "title": "Caucasus",
+      "description": "Plants of Caucasus",
+      "speciesCount": 3164
+    },
+    {
+      "id": "k-western-asia",
+      "title": "Western Asia",
+      "description": "Plants of Western Asia",
+      "speciesCount": 5509
+    },
+    {
+      "id": "k-arabian-peninsula",
+      "title": "Arabian Peninsula",
+      "description": "Plants of Arabian Peninsula",
+      "speciesCount": 2141
+    },
+    {
+      "id": "k-china",
+      "title": "China",
+      "description": "Plants of China",
+      "speciesCount": 7184
+    },
+    {
+      "id": "k-mongolia",
+      "title": "Mongolia",
+      "description": "Plants of Mongolia",
+      "speciesCount": 1083
+    },
+    {
+      "id": "k-eastern-asia",
+      "title": "Eastern Asia",
+      "description": "Plants of Eastern Asia",
+      "speciesCount": 4592
+    },
+    {
+      "id": "k-indian-subcontinent",
+      "title": "Indian Subcontinent",
+      "description": "Plants of Indian Subcontinent",
+      "speciesCount": 7019
+    },
+    {
+      "id": "k-indo-china",
+      "title": "Indo-China",
+      "description": "Plants of Indo-China",
+      "speciesCount": 5277
+    },
+    {
+      "id": "k-malesia",
+      "title": "Malesia",
+      "description": "Plants of Malesia",
+      "speciesCount": 4535
+    },
+    {
+      "id": "k-papuasia",
+      "title": "Papuasia",
+      "description": "Plants of Papuasia",
+      "speciesCount": 2129
+    },
+    {
+      "id": "k-australia",
+      "title": "Australia",
+      "description": "Plants of Australia",
+      "speciesCount": 4830
+    },
+    {
+      "id": "k-new-zealand",
+      "title": "New Zealand",
+      "description": "Plants of New Zealand",
+      "speciesCount": 1691
+    },
+    {
+      "id": "k-southwestern-pacific",
+      "title": "Southwestern Pacific",
+      "description": "Plants of Southwestern Pacific",
+      "speciesCount": 3722
+    },
+    {
+      "id": "k-south-central-pacific",
+      "title": "South-Central Pacific",
+      "description": "Plants of South-Central Pacific",
+      "speciesCount": 1136
+    },
+    {
+      "id": "k-northwestern-pacific",
+      "title": "Northwestern Pacific",
+      "description": "Plants of Northwestern Pacific",
+      "speciesCount": 1244
+    },
+    {
+      "id": "k-north-central-pacific",
+      "title": "North-Central Pacific",
+      "description": "Plants of North-Central Pacific",
+      "speciesCount": 1418
+    },
+    {
+      "id": "k-subarctic-america",
+      "title": "Subarctic America",
+      "description": "Plants of Subarctic America",
+      "speciesCount": 1206
+    },
+    {
+      "id": "k-western-canada",
+      "title": "Western Canada",
+      "description": "Plants of Western Canada",
+      "speciesCount": 2467
+    },
+    {
+      "id": "k-eastern-canada",
+      "title": "Eastern Canada",
+      "description": "Plants of Eastern Canada",
+      "speciesCount": 2633
+    },
+    {
+      "id": "k-northwestern-u-s-a",
+      "title": "Northwestern U.S.A.",
+      "description": "Plants of Northwestern U.S.A.",
+      "speciesCount": 3878
+    },
+    {
+      "id": "k-north-central-u-s-a",
+      "title": "North-Central U.S.A.",
+      "description": "Plants of North-Central U.S.A.",
+      "speciesCount": 3796
+    },
+    {
+      "id": "k-northeastern-u-s-a",
+      "title": "Northeastern U.S.A.",
+      "description": "Plants of Northeastern U.S.A.",
+      "speciesCount": 3908
+    },
+    {
+      "id": "k-southwestern-u-s-a",
+      "title": "Southwestern U.S.A.",
+      "description": "Plants of Southwestern U.S.A.",
+      "speciesCount": 5442
+    },
+    {
+      "id": "k-south-central-u-s-a",
+      "title": "South-Central U.S.A.",
+      "description": "Plants of South-Central U.S.A.",
+      "speciesCount": 4190
+    },
+    {
+      "id": "k-southeastern-u-s-a",
+      "title": "Southeastern U.S.A.",
+      "description": "Plants of Southeastern U.S.A.",
+      "speciesCount": 5176
+    },
+    {
+      "id": "k-mexico",
+      "title": "Mexico",
+      "description": "Plants of Mexico",
+      "speciesCount": 7913
+    },
+    {
+      "id": "k-central-america",
+      "title": "Central America",
+      "description": "Plants of Central America",
+      "speciesCount": 7477
+    },
+    {
+      "id": "k-caribbean",
+      "title": "Caribbean",
+      "description": "Plants of Caribbean",
+      "speciesCount": 5153
+    },
+    {
+      "id": "k-northern-south-america",
+      "title": "Northern South America",
+      "description": "Plants of Northern South America",
+      "speciesCount": 7391
+    },
+    {
+      "id": "k-western-south-america",
+      "title": "Western South America",
+      "description": "Plants of Western South America",
+      "speciesCount": 10906
+    },
+    {
+      "id": "k-brazil",
+      "title": "Brazil",
+      "description": "Plants of Brazil",
+      "speciesCount": 9569
+    },
+    {
+      "id": "k-southern-south-america",
+      "title": "Southern South America",
+      "description": "Plants of Southern South America",
+      "speciesCount": 5601
+    },
+    {
+      "id": "k-subantarctic-islands",
+      "title": "Subantarctic Islands",
+      "description": "Plants of Subantarctic Islands",
+      "speciesCount": 411
+    },
+    {
+      "id": "k-antarctic-continent",
+      "title": "Antarctic Continent",
+      "description": "Plants of Antarctic Continent",
+      "speciesCount": 2
+    },
+    {
+      "id": "salad",
+      "title": "Les Ecologistes de l'Euzière",
+      "description": "Les Ecologistes de l'Euzière",
+      "speciesCount": 245
+    },
+    {
+      "id": "provence",
+      "title": "Provence, France",
+      "description": "Flore provençale Dép. des Bouches-du-Rhône",
+      "speciesCount": 2200
+    },
+    {
+      "id": "lewa",
+      "title": "LEWA in KENYA",
+      "description": "Lewa Wildlife Conservancy",
+      "speciesCount": 851
+    },
+    {
+      "id": "ordesa",
+      "title": "Ordesa",
+      "description": "Plants of Ordesa National Park",
+      "speciesCount": 141
+    },
+    {
+      "id": "cevennes",
+      "title": "Cévennes",
+      "description": "Flora of the Cévennes National Park",
+      "speciesCount": 2392
+    },
+    {
+      "id": "monver",
+      "title": "Mediterranean ornamental trees",
+      "description": "Trees and shrubs for cities and gardens of the Mediterranean Sea",
+      "speciesCount": 230
+    },
+    {
+      "id": "eu-crops",
+      "title": "Crops",
+      "description": "Planted and cultivated crops",
+      "speciesCount": 219
+    },
+    {
+      "id": "clcpro",
+      "title": "Desert Locust Biotopes in West Africa",
+      "description": "Small flora of the Desert Locust biotopes in West Africa",
+      "speciesCount": 237
+    },
+    {
+      "id": "alpes-maritimes",
+      "title": "Flore remarquable des Alpes-Maritimes",
+      "description": "Flore patrimoniale des parcs naturels départementaux des Alpes-Maritimes ",
+      "speciesCount": 98
+    },
+    {
+      "id": "esalq",
+      "title": "ESALQ and Piracicaba trees",
+      "description": "Trees and shrubs of ESALQ park and surrounding areas",
+      "speciesCount": 560
+    },
+    {
+      "id": "xprize-singapore",
+      "title": "XPRIZE Rainforest semi-final",
+      "description": "Tree flora of Singapore's forests",
+      "speciesCount": 374
+    },
+    {
+      "id": "xprize-final",
+      "title": "XPRIZE Rainforest Final",
+      "description": "Brazilian Amazon flora",
+      "speciesCount": 4497
+    },
+    {
+      "id": "xprize-final-trees",
+      "title": "XPRIZE Rainforest Final - Trees",
+      "description": "Tree flora of the Brazilian Amazon",
+      "speciesCount": 2545
+    },
+    {
+      "id": "couloubrier",
+      "title": "Domaine Saint Jacques du Couloubrier",
+      "description": "Flora of the Saint Jacques du Couloubrier estate",
+      "speciesCount": 1155
+    },
+    {
+      "id": "sugarcane",
+      "title": "Weeds of sugarcane in Australia",
+      "description": "Weeds found in sugarcane fields of Queensland and Northern New South Wales",
+      "speciesCount": 327
+    },
+    {
+      "id": "museum-albert-kahn",
+      "title": "Jardin du musée départemental Albert-Kahn",
+      "description": "Jardin du musée départemental Albert-Kahn",
+      "speciesCount": 180
+    },
+    {
+      "id": "gbb-cf",
+      "title": "Gardens by the Bay - Cloud Forest",
+      "description": "Singapore",
+      "speciesCount": 101
+    },
+    {
+      "id": "gbb-fd",
+      "title": "Gardens by the Bay - Flower Dome",
+      "description": "Singapore",
+      "speciesCount": 81
+    }
+  ]
