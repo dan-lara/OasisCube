@@ -4,7 +4,7 @@
 __pycache__/
 
 # Ignore Firmware files
-firmware_secrets.h
+firmware_secrets.hpp
 
 #Ignore Streamlit demo files
 secrets.toml
