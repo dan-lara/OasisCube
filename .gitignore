@@ -1,5 +1,11 @@
-secrets.toml
+#General
 .env
 .venv/
 __pycache__/
+
+# Ignore Firmware files
+firmware_secrets.h
+
+#Ignore Streamlit demo files
+secrets.toml
 *.db
