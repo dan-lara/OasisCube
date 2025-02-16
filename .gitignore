@@ -9,3 +9,6 @@ firmware_secrets.hpp
 #Ignore Streamlit demo files
 secrets.toml
 *.db
+
+#Ignore vscode files
+.vscode/
